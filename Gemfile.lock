@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    favebomb (0.1.0)
+      twitter_oauth
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    json (1.7.7)
+    mime-types (1.21)
+    oauth (0.4.7)
+    twitter_oauth (0.4.4)
+      json (>= 1.1.9)
+      mime-types (>= 1.16)
+      oauth (>= 0.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  favebomb!

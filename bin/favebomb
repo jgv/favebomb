@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+$:.unshift File.dirname(__FILE__) + '/../lib'
+
+require 'favebomb'
+
+begin
+  Favebomb.new
+rescue Exception => e
+  puts e.message
+  puts e.backtrace.inspect
+end
