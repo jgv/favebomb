@@ -70,4 +70,4 @@ Run tests with minitest.
 $ ruby test/unit/favebomb.rb
 ```
 
-**Licesnse: MIT**
+**License: MIT**
