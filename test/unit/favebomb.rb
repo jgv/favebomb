@@ -8,8 +8,8 @@ require 'favebomb'
 class TestFavebomb < MiniTest::Unit::TestCase
 
   def setup
-    ARGV[0] = "bieber" if not ARGV[0]
     @favebomb = Favebomb.new
+    @favebomb.bomb "bieber"
   end
 
   def test_that_it_can_bomb_a_term

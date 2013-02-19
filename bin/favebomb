@@ -5,7 +5,8 @@ $:.unshift File.dirname(__FILE__) + '/../lib'
 require 'favebomb'
 
 begin
-  Favebomb.new
+  fave = Favebomb.new
+  fave.bomb ARGV[0]
 rescue Exception => e
   puts e.message
   puts e.backtrace.inspect

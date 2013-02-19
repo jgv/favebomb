@@ -17,5 +17,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'oauth'
   s.add_dependency 'json'
+  s.add_dependency 'colored'
 
 end
