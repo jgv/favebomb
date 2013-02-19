@@ -32,8 +32,8 @@ Usage: favebomb [command] [options]
                                      or mixed (the default).
     -c, --count count                Control the number of tweets to fave. Maximum is 100, default is 15.
     -u, --until date                 Returns tweets generated before the given date. Date should be
-                                     formatted as YYYY-MM-DD. Keep in mind that the search index may not go back as far as the date
-                                     you specify here.
+                                     formatted as YYYY-MM-DD. Keep in mind that the search index may not 
+                                     go back as far as the date you specify here.
     -g, --geocode code               Returns tweets by users located within a given radius of the given
                                      latitude/longitude. The location is preferentially taking from the
                                      Geotagging API, but will fall back to their Twitter profile. The
