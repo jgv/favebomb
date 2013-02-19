@@ -9,10 +9,10 @@ Hello! Have you ever released a project on the "internet" and wanted to high fiv
 Currently Favebomb requires that you [create a Twitter app](https://dev.twitter.com/apps/new) and have environment variables for the consumer and OAuth tokens. Add something like this to your config:
 
 ``` bash
-export FAVEBOMB_CONSUMER_KEY=12345
-export FAVEBOMB_CONSUMER_SECRET=12345
-export FAVEBOMB_ACCESS_TOKEN=12345
-export FAVEBOMB_ACCESS_SECRET=12345
+export FAVEBOMB_CONSUMER_KEY=th1s_1s_my_c0nsum3r_k3y
+export FAVEBOMB_CONSUMER_SECRET=th1s_1s_my_c0nsum3r_S3cR37
+export FAVEBOMB_ACCESS_TOKEN=th1s_1s_my_Ac3Ss_t0k3n
+export FAVEBOMB_ACCESS_SECRET=th1s_1s_my_Ac3sS_S3cr37
 ```
 
 Then actually install Favebomb like so:
