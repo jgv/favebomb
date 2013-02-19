@@ -4,16 +4,20 @@ Hello! Have you ever released a project on the "internet" and wanted to high fiv
 
 ## Installation
 
+Currently Favebomb requires that you create a Twitter app and have environment variables for the consumer and OAuth tokens. Add something like this to your config:
+
+``` bash
+export FAVEBOMB_CONSUMER_KEY=12345
+export FAVEBOMB_CONSUMER_SECRET=12345
+export FAVEBOMB_ACCESS_TOKEN=12345
+export FAVEBOMB_ACCESS_SECRET=12345
+```
+
+Then actually install Favebomb like so:
+
 ``` bash
 $ gem install favebomb
 ```
-
-or if you're feeeling freaky
-
-``` bash
-$ sudo gem install favebomb
-```
-
 or in your Gemfile: `gem 'favebomb'`
 
 ## Usage
