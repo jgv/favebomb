@@ -2,9 +2,6 @@
 
 Hello! Have you ever released a project on the "internet" and wanted to high five people who are tweeting about it?? It's super annoying to fave each and every tweet. **Enter Favebomb** This little Ruby gem will take care of all your faving for you!
 
-![Biz](http://cl.ly/image/0y3G3Q2W3J3A/Screen%20Shot%202013-02-19%20at%203.16.09%20PM.png!)
-
-
 ## Installation
 
 Currently Favebomb requires that you [create a Twitter app](https://dev.twitter.com/apps/new) and have environment variables for the consumer and OAuth tokens. Add something like this to your config:
@@ -74,3 +71,6 @@ $ ruby test/unit/favebomb.rb
 ```
 
 **License: MIT**
+
+![Biz](http://cl.ly/image/0y3G3Q2W3J3A/Screen%20Shot%202013-02-19%20at%203.16.09%20PM.png!)
+
