@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.summary = "Positive reinforcement"
   s.description = "Favorite Tweets from the command line"
   s.files = `git ls-files`.split("\n")
+  s.test_file = 'test/unit/favebomb.rb'
   s.require_paths = ['lib', 'bin']
   s.executables = ['favebomb']
 
