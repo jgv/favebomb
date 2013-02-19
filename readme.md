@@ -48,7 +48,7 @@ Usage: favebomb [command] [options]
 
 ```
 
-The (Twitter search docs)[https://dev.twitter.com/docs/api/1.1/get/search/tweets) are also a good resource for option usage.
+The [Twitter search docs](https://dev.twitter.com/docs/api/1.1/get/search/tweets) are also a good resource for option usage.
 
 Let's search Twitter for the term "bieber" and fave a bunch of Tweets.
 
