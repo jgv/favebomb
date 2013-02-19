@@ -45,7 +45,10 @@ Usage: favebomb [command] [options]
                                      distinct 'sub-regions' will be considered when using the radius
                                      modifier.
     -h, --help                       Show this message
+
 ```
+
+The (Twitter search docs)[https://dev.twitter.com/docs/api/1.1/get/search/tweets) are also a good resource for option usage.
 
 Let's search Twitter for the term "bieber" and fave a bunch of Tweets.
 
