@@ -2,6 +2,8 @@
 
 Hello! Have you ever released a project on the "internet" and wanted to high five people who are tweeting about it?? It's super annoying to fave each and every tweet. **Enter Favebomb** This little Ruby gem will take care of all your faving for you!
 
+!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)!(http://cl.ly/image/3W47042i2L0V/Screen%20Shot%202013-02-19%20at%203.20.30%20PM.png)
+
 ## Installation
 
 Currently Favebomb requires that you [create a Twitter app](https://dev.twitter.com/apps/new) and have environment variables for the consumer and OAuth tokens. Add something like this to your config:
