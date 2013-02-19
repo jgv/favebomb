@@ -18,7 +18,7 @@ or in your Gemfile: `gem 'favebomb'`
 
 ## Usage
 
-``` bash
+```
 $ favebomb --help
 
 Usage: favebomb [command] [options]
@@ -33,20 +33,20 @@ Usage: favebomb [command] [options]
 Let's search Twitter for the term "bieber" and fave a bunch of Tweets.
 
 ``` bash
-favebomb bieber
+$ favebomb bieber
 ```
 
 Or what about searching Twitter for "kawaii" from users located in Japan.
 
 ``` bash
-favebomb --lang ja kawaii
+$ favebomb --lang ja kawaii
 ```
 
 ## Tests
 
 Run tests with minitest.
 
-``` bash
+```
 $ ruby test/unit/favebomb.rb
 ```
 
