@@ -4,7 +4,7 @@ Hello! Have you ever released a project on the "internet" and wanted to high fiv
 
 ## Installation
 
-Currently Favebomb requires that you create a Twitter app and have environment variables for the consumer and OAuth tokens. Add something like this to your config:
+Currently Favebomb requires that you [create a Twitter app](https://dev.twitter.com/apps/new) and have environment variables for the consumer and OAuth tokens. Add something like this to your config:
 
 ``` bash
 export FAVEBOMB_CONSUMER_KEY=12345
@@ -32,7 +32,7 @@ Usage: favebomb [command] [options]
                                      or mixed (the default).
     -c, --count count                Control the number of tweets to fave. Maximum is 100, default is 15.
     -u, --until date                 Returns tweets generated before the given date. Date should be
-                                     formatted as YYYY-MM-DD. Keep in mind that the search index may not 
+                                     formatted as YYYY-MM-DD. Keep in mind that the search index may not
                                      go back as far as the date you specify here.
     -g, --geocode code               Returns tweets by users located within a given radius of the given
                                      latitude/longitude. The location is preferentially taking from the
